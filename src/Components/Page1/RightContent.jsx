@@ -1,4 +1,3 @@
-import Card from "../Cards/Card";
 import RightCard from "./RightCard";
 
 const RightContent = (props) => {

@@ -9,7 +9,6 @@ const PageLower = () => {
       </div>
       <Page2MidCon />
       <div className="flex justify-center items-center mt-10 text-2xl">
-        <h1 className='text-white'>Stuff views</h1>
       </div>
     </div>
   )
