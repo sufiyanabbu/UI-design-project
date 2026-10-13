@@ -1,16 +1,34 @@
-# React + Vite
+# UI Design Project — Customer Segmentation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, dark-themed UI design project built with React and Tailwind CSS. This project focuses on component-based architecture, clean layouts, typography, and image-driven card designs.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Modern dark-themed interface
+- Component-based React architecture
+- Customer segmentation section with profile cards
+- Image-based cards with text overlays
+- Clean typography and spacing
+- Reusable UI components
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- Vite
 
-## Expanding the ESLint configuration
+## 📸 Project Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The interface showcases a customer segmentation section featuring profile cards in a modern, dark-themed layout.
+
+## 📂 Project Structure
+
+The project is organized into reusable React components to keep the code clean, maintainable, and easy to extend.
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/sufiyanabbu/UI-design-project.git

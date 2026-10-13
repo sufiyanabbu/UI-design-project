@@ -1,4 +1,3 @@
-import RightCardContent from "./RightCardContent"
 
 const RightCard = (props) => {
   return (
@@ -17,7 +16,6 @@ const RightCard = (props) => {
 </button>
         </div>
      </div>
-      <RightCardContent />
     </div>
   )
 }

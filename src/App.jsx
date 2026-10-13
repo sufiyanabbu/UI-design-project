@@ -1,6 +1,5 @@
 import React from 'react'
 import PageUpper from './Components/Page1/PageUpper'
-import PageLower from './Components/Page2/PageLower'
 
 
 const App = (props) => {
@@ -57,7 +56,6 @@ const App = (props) => {
   return (
     <div className='h-screen'>
    <PageUpper users={users} />
-   <PageLower />
     </div>
   )
 }
